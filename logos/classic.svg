@@ -1,0 +1,12 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="256" cy="256" r="240" fill="#1E3A8A"/>
+  <circle cx="256" cy="256" r="220" stroke="#F59E0B" stroke-width="12"/>
+  <!-- Globe Grid -->
+  <path d="M256 36C377.5 36 476 134.5 476 256C476 377.5 377.5 476 256 476C134.5 476 36 377.5 36 256C36 134.5 134.5 36 256 36Z" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.3"/>
+  <ellipse cx="256" cy="256" rx="110" ry="220" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.3"/>
+  <path d="M36 256H476" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.3"/>
+  <!-- Wings -->
+  <path d="M60 260 C 60 260, 160 200, 256 280 C 352 200, 452 260, 452 260" stroke="#F59E0B" stroke-width="24" stroke-linecap="round" fill="none"/>
+  <!-- Plane Silhouette -->
+  <path d="M256 180 L 280 240 L 340 260 L 280 280 L 256 340 L 232 280 L 172 260 L 232 240 Z" fill="#F59E0B"/>
+</svg>

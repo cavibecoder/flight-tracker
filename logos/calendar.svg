@@ -1,0 +1,17 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Calendar Base -->
+  <rect x="64" y="96" width="384" height="352" rx="32" fill="white" stroke="#374151" stroke-width="16"/>
+  <!-- Calendar Header -->
+  <path d="M64 128C64 110.327 78.3269 96 96 96H416C433.673 96 448 110.327 448 128V160H64V128Z" fill="#EF4444"/>
+  <!-- Rings -->
+  <rect x="128" y="64" width="32" height="64" rx="16" fill="#374151"/>
+  <rect x="352" y="64" width="32" height="64" rx="16" fill="#374151"/>
+  <!-- Plane Path -->
+  <path d="M128 352 C 128 352, 200 250, 384 250" stroke="#3B82F6" stroke-width="12" stroke-dasharray="24 24" stroke-linecap="round"/>
+  <!-- Plane -->
+  <path d="M384 250 L 420 230 L 410 260 L 384 250 Z" fill="#3B82F6" stroke="#3B82F6" stroke-width="8" stroke-linejoin="round"/>
+  <!-- Date Lines -->
+  <rect x="112" y="220" width="64" height="16" rx="8" fill="#E5E7EB"/>
+  <rect x="112" y="270" width="128" height="16" rx="8" fill="#E5E7EB"/>
+  <rect x="112" y="320" width="96" height="16" rx="8" fill="#E5E7EB"/>
+</svg>
